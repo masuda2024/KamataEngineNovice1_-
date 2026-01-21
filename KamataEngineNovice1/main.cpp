@@ -28,7 +28,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 		///
 
 		Novice::ScreenPrintf(10, 10, "Git");
-
+		Novice::ScreenPrintf(10, 30, "Git_2");
 
 
 		///
